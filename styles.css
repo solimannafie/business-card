@@ -1,0 +1,28 @@
+body{
+  margin: 20px;
+  font-family: sans-serif;
+}
+
+.img1{
+  width: 150px;
+}
+
+.card{
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  width: 400px;
+  margin: 0 auto;
+  color: #2b2839;
+  background: #ddebf8;
+  border-bottom: 6px solid #d8cefe;
+}
+
+.border-blue{
+  border: 1px blue;
+}
+
+.text{
+  padding: 0 auto;
+  text-align: center;
+}
